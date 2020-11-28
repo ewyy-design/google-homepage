@@ -8,7 +8,7 @@ Languages used would be HTML, CSS and Javascript.
 Browser's development tools will also be used to check the progression of 
 the webpage.
 
-There is 2 assignments in this respository.
+There is 1 assignment in this respository.
 
 Easy Version: Build the Google.com homepage.
 File involved:

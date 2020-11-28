@@ -15,7 +15,6 @@ File involved:
 - index.html
 - styles.css
 
-Difficult Version (Optional): Build the Goolgle.com search results page
-File involved:
-- search.html
-- searchstyles.css
+Challenges face (28/11/2020):
+- Unable to align the buttons to center (Google search & I'm Feeling Lucky)
+- Adding search icon and mic icon into the search bar
